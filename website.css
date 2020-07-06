@@ -121,6 +121,7 @@ a:hover {
 .setup {
     display: flex;
     flex-wrap: wrap;  
+    jusitify-content: center;
 }
 
 #setup {
