@@ -134,7 +134,7 @@ a:hover {
     position: relative;
     display: flex;
     flex-direction: column;
-    padding: 110 15;
+    padding: 110 160;
 }
 
 .setup-imgbox img{
